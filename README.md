@@ -16,4 +16,4 @@ The AI Memory API Platform enhances AI assistants and agents with an intelligent
 - **Healthcare**: Track patient preferences and history for personalized care
 - **Productivity & Gaming**: Adaptive workflows and environments based on user behavior
 
-<h3>Made by Abhiram Kaakarla</h3>
+<h3 align="center">Made by Abhiram Kaakarla</h3>
