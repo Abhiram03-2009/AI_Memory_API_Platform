@@ -4,7 +4,7 @@
 
 The AI Memory API Platform enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. It remembers user preferences, adapts to individual needs, and continuously learns over time—ideal for customer support chatbots, AI assistants, and autonomous systems.
 
-### Key Features & Use Cases
+# Key Features & Use Cases
 
 **Core Capabilities:**
 - **Multi-Level Memory**: Seamlessly retains User, Session, and Agent state with adaptive personalization
