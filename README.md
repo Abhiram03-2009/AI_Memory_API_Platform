@@ -1,3 +1,5 @@
+> **Attribution:** This repository is a copy of [Mem0](https://github.com/mem0ai/mem0) by Mem0 (mem0ai), uploaded for personal study and experimentation. It is not my original work. The original is released under the Apache License 2.0; the license file is included in [LICENSE](LICENSE).
+
 <h1 align="center">AI Memory API Platform</h1>
 
 # Introduction
@@ -16,4 +18,4 @@ The AI Memory API Platform enhances AI assistants and agents with an intelligent
 - **Healthcare**: Track patient preferences and history for personalized care
 - **Productivity & Gaming**: Adaptive workflows and environments based on user behavior
 
-<h3 align="center">Made by Abhiram Kaakarla</h3>
+<h3 align="center">Copied for study by Abhiram Kaakarla; original by Mem0 (mem0ai)</h3>
